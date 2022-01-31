@@ -5,4 +5,4 @@ Steps:
 - Run main.py. It has 2 function, register and login
 
   - register: opens a QR code to scan from Google Authenticator App and asks your code from app to confirm registration
-  - Login app validated that the system generated code and your app code are in sink
+  - Login function validates that the system generated code and your app code are in sink
